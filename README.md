@@ -6,7 +6,6 @@ The goal is **clarity, correctness, and efficiency**, while preserving the origi
 ## Structure
 
 - `programs/` — all polished C source files (ready to compile).
-- `Makefile` — compile all programs into `bin/` executables with `make`.
 - `PROGRAMS.md` — short, exam-friendly explanations for each program.
 - `LICENSE` — MIT license.
 
@@ -14,9 +13,7 @@ The goal is **clarity, correctness, and efficiency**, while preserving the origi
 
 ```bash
 make all
-# or compile a single program, e.g.
-gcc -std=c11 -Wall programs/binary_search.c -o bin/binary_search
-```
+# or compile a single program
 
 ## Notes
 
