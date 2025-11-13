@@ -19,4 +19,5 @@ make all
 
 - I kept the program behavior identical to the originals (same input/output semantics).
 - Code was simplified for readability and minor performance improvements where applicable.
-- If you want line-by-line exam-style explanations inserted into each file, tell me and I'll add them to `PROGRAMS.md` or inline comments.
+- If you want line-by-line exam-style explanations inserted into each file,
+  tell me and I'll add them to `PROGRAMS.md` or inline comments.
