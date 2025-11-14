@@ -1,6 +1,6 @@
 # PROGRAMS
 
-Short descriptions and how to explain each program in exam-friendly bullets.
+Short descriptions and how to explain each program in exam-friendly bullets for my DSA lab cylces.
 
 ## addition_of_matrices.c
 - **What it does:** Implementation of addition of matrices
